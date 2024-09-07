@@ -1,11 +1,11 @@
 ## <p align="center">Hi there 🙋‍♂️, I'm Santhosh</p>
 <p align="center">Data Analyst</p>
 <br>
-- 🔭 I’m currently working with **Cognizant**
+- 🔭 I’m currently working with <bold>Cognizant</bold>
 <br>
-- 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
+- 🌱 I’m currently learning <bold>Power BI, Python, SQL, Excel</bold>
 <br>
-- 💬 Ask me about **Data**
+- 💬 Ask me about <bold>Data</bold>
 <br>
 - 📫 How to reach me: [santhoshdananjayan@gmail.com](santhoshdananjayan@gmail.com)
 
