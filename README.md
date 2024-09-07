@@ -2,8 +2,11 @@
 <p align="center">Data Analyst</p>
 <br>
 - 🔭 I’m currently working with **Cognizant**
+<br>
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
+<br>
 - 💬 Ask me about **Data**
+<br>
 - 📫 How to reach me: [santhoshdananjayan@gmail.com](santhoshdananjayan@gmail.com)
 
 <!--
