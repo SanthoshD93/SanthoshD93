@@ -1,5 +1,5 @@
-## Hi there 🙋‍♂️, I'm Santhosh
-Data Analyst
+## <center> Hi there 🙋‍♂️, I'm Santhosh </center>
+<center> Data Analyst </center>
 
 - 🔭 I’m currently working with **Cognizant**
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
