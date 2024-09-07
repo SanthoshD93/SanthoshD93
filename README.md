@@ -1,6 +1,6 @@
 ## <p align="center">Hi there 🙋‍♂️, I'm Santhosh</p>
 <p align="center">Data Analyst</p>
-<br></br>
+<br>
 - 🔭 I’m currently working with **Cognizant**
 - 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
 - 💬 Ask me about **Data**
