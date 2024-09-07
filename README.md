@@ -1,5 +1,4 @@
 ## Hi there 🙋‍♂️, I'm Santhosh
-___
 Data Analyst
 
 - 🔭 I’m currently working with **Cognizant**
