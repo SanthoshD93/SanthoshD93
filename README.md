@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there 🙋‍♂️, I'm Santhosh
+___
+Data Analyst
+
+- 🔭 I’m currently working with **Cognizant**
+- 🌱 I’m currently learning **Power BI, Python, SQL, Excel**
+- 💬 Ask me about **Data**
+- 📫 How to reach me: [santhoshdananjayan@gmail.com](santhoshdananjayan@gmail.com)
 
 <!--
 **SanthoshD93/SanthoshD93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
